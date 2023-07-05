@@ -1,0 +1,82 @@
+Snakes at: (7,7)->(1,5)
+(9,3)->(3,5)
+(4,9)->(2,1)
+(6,2)->(2,7)
+(9,0)->(5,9)
+Ladders at: (1,1)->(6,8)
+(2,2)->(5,8)
+(1,1)->(4,2)
+(2,9)->(7,3)
+(1,5)->(7,0)
+[potato] newCell: 8
+[mish] newCell: 2
+[drekk] newCell: 4
+[potato] newCell: 12
+[mish] newCell: 14
+[drekk] newCell: 16
+[potato] newCell: 19
+[mish] newCell: 20
+[drekk] newCell: 24
+[ladder up] 29 -> 73
+[potato] newCell: 73
+[mish] newCell: 23
+[ladder up] 29 -> 73
+[drekk] newCell: 73
+[potato] newCell: 84
+[mish] newCell: 27
+[drekk] newCell: 81
+[snake bite] 90 -> 59
+[potato] newCell: 59
+[mish] newCell: 32
+[drekk] newCell: 83
+[potato] newCell: 63
+[mish] newCell: 38
+[drekk] newCell: 88
+[potato] newCell: 70
+[mish] newCell: 44
+[drekk] newCell: 97
+[potato] newCell: 81
+[snake bite] 49 -> 21
+[mish] newCell: 21
+[drekk,10] Close to winning, try to get lower value on dice
+[potato] newCell: 91
+[mish] newCell: 32
+[drekk,7] Close to winning, try to get lower value on dice
+[potato] newCell: 97
+[mish] newCell: 35
+[drekk,8] Close to winning, try to get lower value on dice
+[potato,6] Close to winning, try to get lower value on dice
+[mish] newCell: 43
+[drekk,5] Close to winning, try to get lower value on dice
+[potato,6] Close to winning, try to get lower value on dice
+[snake bite] 49 -> 21
+[mish] newCell: 21
+[drekk,11] Close to winning, try to get lower value on dice
+[potato,7] Close to winning, try to get lower value on dice
+[mish] newCell: 24
+[drekk,8] Close to winning, try to get lower value on dice
+[potato,4] Close to winning, try to get lower value on dice
+[mish] newCell: 30
+[drekk,6] Close to winning, try to get lower value on dice
+[potato,7] Close to winning, try to get lower value on dice
+[mish] newCell: 40
+[drekk,5] Close to winning, try to get lower value on dice
+[potato,6] Close to winning, try to get lower value on dice
+[mish] newCell: 42
+[drekk,8] Close to winning, try to get lower value on dice
+[potato,7] Close to winning, try to get lower value on dice
+[mish] newCell: 52
+[drekk,6] Close to winning, try to get lower value on dice
+[potato,5] Close to winning, try to get lower value on dice
+[mish] newCell: 60
+[drekk,4] Close to winning, try to get lower value on dice
+[potato,4] Close to winning, try to get lower value on dice
+[mish] newCell: 68
+[drekk,10] Close to winning, try to get lower value on dice
+[potato,11] Close to winning, try to get lower value on dice
+[mish] newCell: 78
+[drekk,9] Close to winning, try to get lower value on dice
+[potato,3] Close to winning, try to get lower value on dice
+[mish] newCell: 88
+[drekk] newCell: 99
+Woohooo! drekk WON!!!
